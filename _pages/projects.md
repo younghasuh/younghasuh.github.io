@@ -34,7 +34,7 @@ Dispersal is considered costly due to increased energetic costs, exposure to pre
 #### Prospecting behavior, an understudied and elusive precursor to natal dispersal
 Prospecting, the process of gathering social and environmental information on surroundings prior to dispersal, is prevalent in numerous avian systems. While we suspect this information allows individuals to disperse into high quality territories, its exact mechanisms are unknown. What are these birds looking at while they move through foreign lands? How do they decide where to settle? Is there individual variation and if so, why does it occur? My research aims to elucidate this process and understand its fitness implications. I use an automated tracking system developed by Cellular Tracking Technologies to quantify daily prospecting movement at a fine-scale. 
 
-![tracking](https://github.com/younghasuh/younghasuh.github.io/assets/images/slowed_ver.gif)
+![tracking](/assets/images/slowed_ver.gif)
 
 
 #### Northern orioles: Bullock's orioles have become more orange over six decades
