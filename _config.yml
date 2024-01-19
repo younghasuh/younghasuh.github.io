@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Young Ha Suh"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD"
+  bio    : "PhD in Ecology & Evolutionary Biology. Collections Manager at NHMLAC"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
