@@ -3,6 +3,12 @@ permalink: /projects/
 title: "Projects"
 ---
 
+## Current projects
+
+I am working on creating a Shiny app that will readily display and plot our collections database: [LACM specimens](https://nhm-birds.shinyapps.io/lacm_birds/) 
+
+## Projects from my PhD
+
 ![jay2](https://github.com/younghasuh/younghasuh.github.io/assets/22403928/88048916-4b8f-4ec6-a409-e4aa53936f96)
 
 #### Social and environmental predictors of natal dispersal
