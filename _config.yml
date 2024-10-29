@@ -48,7 +48,7 @@ plugins:
 author:
   name   : "Young Ha Suh"
   avatar : "/assets/images/naturefest.jpg"
-  bio    : "PhD in Ecology & Evolutionary Biology. Collections Manager at NHMLAC"
+  bio    : "PhD in Ecology & Evolutionary Biology. Data Scientist, Project Manager"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
